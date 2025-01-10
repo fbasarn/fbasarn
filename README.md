@@ -5,5 +5,6 @@
 :dart: I’m always looking for opportunities to challenge myself, learn new skills, and grow as a developer.  
 :pencil2: All my projects are either built from the ground up by me or properly credit any external contributions where needed.  
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+# Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,js,nodejs,react,vue,html,css,sass,openstack,vscode)](https://skillicons.dev)
 
