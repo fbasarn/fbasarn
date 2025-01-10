@@ -6,6 +6,5 @@
 :pencil2: All my projects are either built from the ground up by me or properly credit any external contributions where needed.  
 
 # Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,nodejs,react,vue,html,css,sass,openstack,vscode)](https://skillicons.dev)
+c, java, py,js ,nodejs, react, vue.js, html, css, sass, openstack, vscode
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
