@@ -8,3 +8,4 @@
 # Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,js,nodejs,react,vue,html,css,sass,openstack,vscode)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,js,nodejs,react,vue)](https://skillicons.dev)
