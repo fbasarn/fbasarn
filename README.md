@@ -6,5 +6,5 @@
 :pencil2: All my projects are either built from the ground up by me or properly credit any external contributions where needed.  
 
 # Languages and Tools
-c, java, py,js ,nodejs, react, vue.js, html, css, sass, openstack, vscode
+C, Java, Python, JavaScript, Nodejs, React, Vue.js, HTML, CSS, SASS, Openstack, VScode, IntelliJ
 
